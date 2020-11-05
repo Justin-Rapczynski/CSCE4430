@@ -1,0 +1,12 @@
+For family.py the following extensions will need to be downloaded
+
+pip install kanren
+pip install pyDatalog
+
+Professor said that the way my ouput was created would work in order to
+try different inputs simply go to the function in the code and change the name 
+to whatever you link as long as its defined in people
+
+for any questions please contact me at JustinRapczynski@my.unt.edu and I will be happy to help
+
+Compile and run as you would any other python program 
